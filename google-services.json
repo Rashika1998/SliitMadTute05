@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "864585756568",
+    "firebase_url": "https://slittmadtute05.firebaseio.com",
+    "project_id": "slittmadtute05",
+    "storage_bucket": "slittmadtute05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864585756568:android:f792a9d8662ce114a305ed",
+        "android_client_info": {
+          "package_name": "com.sliit.sliittutemad05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864585756568-ia10qnea4bi884s3dl798mohncq3aqmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sliit.sliittutemad05",
+            "certificate_hash": "6f9b5bf2876fe1fb05030464789905c93f9d91e7"
+          }
+        },
+        {
+          "client_id": "864585756568-g985o1h1jscfit41m4h9k3l8a49gei7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMwT54I8IsWr-PAno8V7XOVYNq-Qmy_t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864585756568-g985o1h1jscfit41m4h9k3l8a49gei7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
